@@ -11,4 +11,6 @@ These amounts may result in a remainder that, in total, would not equal to the t
 
 This contract takes the previous contract to the next level. 
 
-This contract allows the caller to send a percentage of an amount (via points out of a percentage of 100) to their employee's addresses. 
+This contract allows the caller to send a percentage of an amount (via points out of a percentage of 100) to their employee's addresses. As the previous contract did, this contract will send the remaining amount back BUT this time will send the remaining amount to the CEO (one of the higher ranking/tiered employees).
+
+
